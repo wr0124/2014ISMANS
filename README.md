@@ -1,2 +1,2 @@
-# 2014ISMANSPython
-simulation idea based on the coupled opinion dynamics in community network
+# 2014ISMANS
+simulation ideas based on the diffusion dynamics
